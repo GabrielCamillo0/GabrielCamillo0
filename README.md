@@ -2,12 +2,12 @@
   
   **Desenvolvedor Back-end**
   
-- 📍 Morando em São Paulo, Brasil
+- 🗺 Morando em São Paulo, Brasil
 - 📚 Graduado em Análise e Desenvolvimento de Sistemas e paralelamente cursos extracurriculares.
-- 🌱 Atualmente estou aprimorando minhas habilidades em C#, tópicos de computação, segurança da informação, inglês.
+- ♻ Atualmente estou aprimorando minhas habilidades em C#, .Net, segurança da informação, inglês.
 - 💬 Pergunte-me sobre: C#, Java, algoritmos.
 - 👩‍💻 Todos os meus projetos estão disponíveis no GitHub <a href="https://github.com/GabrielCamillo0?tab=repositories&q=&type=public&language=&sort=" target="_blank" > GabrielCamillo0 </a>
-- ⚽ Hobbies: esportes e jogos
+- ⚽ Hobbies: Esportes e jogos.
   
   <br>
   <h3>Habilidades técnicas: </h3>
