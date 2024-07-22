@@ -23,10 +23,7 @@
   <br>
   <h3> Contatos: </h3>
   
-  <a href="mailto:gcamillo006@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
-   [gcamillo006@gmail.com](mailto:gcamillo006@gmail.com)
-
-  <a href="https://www.linkedin.com/in/gabriel-camillo-65266b23a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
+  <a href="mailto:gcamillo006@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>     <a href="https://www.linkedin.com/in/gabriel-camillo-65266b23a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
    
 
   <br>
