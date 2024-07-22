@@ -27,16 +27,15 @@
    [gcamillo006@gmail.com](mailto:gcamillo006@gmail.com)
 
   <a href="https://www.linkedin.com/in/gabriel-camillo-65266b23a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
-   [Gabriel Camillo](https://www.linkedin.com/in/gabriel-camillo-65266b23a/)
+   
 
   <br>
   <div align="center">
     
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCamillo0&layout=compact&show_icons=true&theme=blue"/>
   
- 
-  
   </div>
 
   <br>
 Obrigado por visitar meu perfil! 
+
