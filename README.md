@@ -7,7 +7,7 @@
   
 - 🗺 Living in São Paulo, Brazil
 - 📚 Graduated in Systems Analysis and Development and at the same time extracurricular courses.
-- ♻ I am currently improving my skills in C#, .Net, information security, English.
+- ♻ I am currently improving my skills in: C#, .Net, information security, English.
 - 💬 Ask me about: C#, Java, algorithms.
 - 👩‍💻 All my projects are available on GitHub <a href="https://github.com/GabrielCamillo0?tab=repositories&q=&type=public&language=&sort=" target="_blank" > GabrielCamillo0 </a>
 - ⚽ Hobbies: Sports and games.
