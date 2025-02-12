@@ -5,7 +5,7 @@
   
   **Developer Back-end**
   
-- 🗺 Living in São Paulo, Brazil
+- 🗺 Living in Davenport, Florida EUA
 - 📚 Graduated in Systems Analysis and Development and at the same time extracurricular courses.
 - ♻ I am currently improving my skills in: C#, .Net, information security, English.
 - 💬 Ask me about: C#, Java, algorithms.
