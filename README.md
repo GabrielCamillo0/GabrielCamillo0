@@ -112,11 +112,12 @@ My approach is simple:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCamillo0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d1d2&icon_color=00d1d2&text_color=ffffff"/>
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielCamillo0\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0d1117\&title_color=00d1d2\&icon_color=00d1d2\&text_color=ffffff)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCamillo0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d1d2&text_color=ffffff"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCamillo0\&layout=compact\&langs_count=8\&theme=tokyonight\&hide_border=true\&bg_color=0d1117\&title_color=00d1d2\&text_color=ffffff)
 
 </div>
+
 
 ---
 
